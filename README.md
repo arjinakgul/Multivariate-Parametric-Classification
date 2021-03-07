@@ -1,2 +1,3 @@
 # Multivariate-Parametric-Classification
-ENGR421 Homework 1
+Koc University
+ENGR421-Machine Learning
